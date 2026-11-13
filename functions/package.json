@@ -1,0 +1,16 @@
+{
+  "name": "english-game-lab-functions",
+  "private": true,
+  "main": "index.js",
+  "engines": {
+    "node": "22"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "firebase-admin": "^13.0.2",
+    "firebase-functions": "^6.3.2"
+  },
+  "scripts": {
+    "validate-seed": "node validate_seed.js"
+  }
+}

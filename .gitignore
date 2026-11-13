@@ -1,0 +1,41 @@
+# Dependencies and local build caches
+node_modules/
+functions/node_modules/
+.firebase/
+.cache/
+coverage/
+*.log
+firebase-debug.log*
+
+# Environment, credentials and private keys
+.env
+.env.*
+**/.env
+**/.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*service-account*.json
+*serviceAccount*.json
+*-firebase-adminsdk-*.json
+credentials*.json
+**/.runtimeconfig.json
+
+# Never commit production/student data, backups or generated account sheets
+backups/
+baseline/
+exports/
+private/
+.private/
+student-data/
+student-results/
+account-sheets/
+credential-exports/
+*.sqlite
+*.db
+
+# Deployment-specific config MUST be supplied explicitly by each developer
+.firebaserc
+public/firebase-config.js
+!**/.env.example

@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#15162b">
+  <title>Setup docente • English Game Lab</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<main class="login-page">
+  <section class="login-shell card">
+    <div class="login-art">
+      <div class="brand"><div class="brand-mark">🎮</div><span>English Game Lab</span></div>
+      <h1>Setup iniziale.<br><span>Una volta sola.</span></h1>
+      <p>Collega un account docente Firebase autorizzato e carica la libreria iniziale di domande e giochi.</p>
+    </div>
+    <form class="login-form" id="setupForm">
+      <div class="eyebrow">Teacher bootstrap</div>
+      <h2>Inizializza la dashboard</h2>
+      <p>Prima crea un account docente in Firebase Authentication e configura <code>EGL_BOOTSTRAP_TEACHER_EMAIL</code> nel backend.</p>
+      <div class="stack">
+        <div class="field"><label>Email account docente</label><input class="input" id="teacherEmail" type="email" autocomplete="username" required autofocus></div>
+        <div class="field"><label>Password account docente</label><input class="input" id="password" type="password" autocomplete="current-password" required></div>
+        <button class="btn primary" id="go">INIZIALIZZA ENGLISH GAME LAB →</button>
+      </div>
+      <div class="login-note" id="status">Il backend verifica l'identità del docente autorizzato e blocca account diversi.</div>
+    </form>
+  </section>
+</main>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script src="/firebase-config.js"></script>
+<script>
+  firebase.initializeApp(window.EGL_FIREBASE_CONFIG);
+  const auth=firebase.auth();
+  const status=document.getElementById('status');
+  document.getElementById('setupForm').addEventListener('submit', async e=>{
+    e.preventDefault(); const btn=document.getElementById('go'); btn.disabled=true;
+    status.textContent='Accesso e caricamento contenuti…';
+    try{
+      const cred=await auth.signInWithEmailAndPassword(document.getElementById('teacherEmail').value.trim(),document.getElementById('password').value);
+      const token=await cred.user.getIdToken(true);
+      const res=await fetch('/api/bootstrap-teacher',{method:'POST',headers:{'Authorization':'Bearer '+token,'Content-Type':'application/json'},body:'{}'});
+      const data=await res.json(); if(!res.ok) throw new Error(data.detail||data.error||'Setup non riuscito');
+      status.innerHTML=`✅ Setup completato: <strong>${data.questions}</strong> domande e <strong>${data.activities}</strong> attività pronte. Apertura dashboard…`;
+      setTimeout(()=>location.href='/',1000);
+    }catch(err){ status.textContent='❌ '+err.message; btn.disabled=false; }
+  });
+</script>
+</body>
+</html>

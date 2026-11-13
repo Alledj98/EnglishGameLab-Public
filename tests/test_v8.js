@@ -1,0 +1,47 @@
+'use strict';
+const assert=require('node:assert/strict'),fs=require('node:fs'),path=require('node:path'),vm=require('node:vm');
+const root=path.join(__dirname,'..');
+const bulk=require('../functions/bulk-content');
+const lesson=bulk.parse(fs.readFileSync(path.join(root,'templates/LEZIONE_COMPLETA_V8.txt'),'utf8'),'Lezione.txt');
+assert.deepEqual(lesson.errors,[]);assert.equal(lesson.questions.length,6);assert.equal(lesson.activities.length,6);
+assert.equal(lesson.questions.find(q=>q.type==='spell').audio_script,'Elephant');
+assert.equal(lesson.questions.find(q=>q.type==='fill').payload.answers[0],'They are playing tennis today.');
+assert.ok(lesson.activities.find(a=>a.game_type==='memory').memory_round_seconds===20);
+assert.ok(lesson.activities.some(a=>a.game_type==='word_order'));
+assert.ok(lesson.activities.some(a=>a.game_type==='quick_tap'));
+assert.equal(lesson.questions[0].difficulty,'easy');
+const server=fs.readFileSync(path.join(root,'functions/index.js'),'utf8');
+const crStart=server.indexOf('function correctAnswer('),crEnd=server.indexOf('function calculateStreak(',crStart);
+const ruleContext=vm.createContext({});
+vm.runInContext(server.slice(crStart,crEnd)+'\nglobalThis.testCorrect=correctAnswer;',ruleContext);
+assert.equal(ruleContext.testCorrect({type:'mcq',payload:{correct:0}},null),false,'NULL must never equal option 0');
+assert.equal(ruleContext.testCorrect({type:'mcq',payload:{correct:0}},1),false);
+assert.equal(ruleContext.testCorrect({type:'mcq',payload:{correct:0}},0),true);
+assert.equal(ruleContext.testCorrect({type:'swipe',payload:{correct:false}},null),false);
+assert.ok(server.includes('memoryExpired?0:'),'Memory timeout must disable XP server-side');
+assert.ok(server.includes("question_ids:candidates.map" )===false || server.includes('question_ids:candidates.map(q=>q.id)'));
+assert.ok(server.includes('already_answered:true'));
+assert.ok(server.includes("published:false,scope_all:false,class_ids:[]"),'Demos must be unpublished and unassigned');
+const ui=fs.readFileSync(path.join(root,'public/app.js'),'utf8');
+const subStart=ui.indexOf('async function submitAnswer('),subEnd=ui.indexOf('function showFeedback(',subStart);
+async function testTime(correct,delta){
+  let body=null;const g={activity:{mode:'practice',game_type:'quick_tap'},questions:[{id:7}],index:0,answered:false,finishing:false,startedAt:Date.now()-500,attack:true,attackDeadline:Date.now()+60000,attempt_id:33};
+  const initial=g.attackDeadline;let delayCalled=false;
+  const ctx=vm.createContext({state:{game:g},window:{},Date,JSON,Math,api:async(url,opts)=>{body=JSON.parse(opts.body);return{correct}},$:()=>({innerHTML:''}),toast:()=>{},updateTimerText:()=>{},finishGame:()=>{},setTimeout:()=>{delayCalled=true},nextQuestion:()=>{}});
+  vm.runInContext(ui.slice(subStart,subEnd)+'\nglobalThis.submit=submitAnswer;',ctx);
+  await ctx.submit(1);
+  assert.equal(g.attackDeadline-initial,delta);
+  assert.equal(g.answered,true);
+  assert.equal(body.question_id,7);assert.equal(body.time_expired,false);
+  assert.equal(delayCalled,true,'Must automatically schedule next question');
+}
+(async()=>{
+ await testTime(true,4000);await testTime(false,-6000);
+ const g={activity:{mode:'practice',game_type:'memory'},questions:[{id:4}],index:0,answered:false,finishing:false,startedAt:Date.now()-21000,attack:false,attempt_id:4};
+ let submitted=null,finished=false;
+ const ctx=vm.createContext({state:{game:g},window:{},Date,JSON,Math,api:async(url,opts)=>{submitted=JSON.parse(opts.body);return{correct:false}},$:()=>({innerHTML:''}),toast:()=>{},finishGame:()=>{finished=true},setTimeout:fn=>fn()});
+ vm.runInContext(ui.slice(subStart,subEnd)+'\nglobalThis.submit=submitAnswer;',ctx);
+ await ctx.submit(null,true);
+ assert.equal(submitted.time_expired,true);assert.equal(g.memoryExpired,true);assert.equal(finished,true);
+ console.log('OK V8: TXT, demo, difficulty, Word Order/Quick Tap, null=wrong, Time Attack +4/-6, Memory 0 XP path and auto-next');
+})().catch(err=>{console.error(err);process.exitCode=1});

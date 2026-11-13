@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "type": "swipe",
+      "topic": "Present Simple vs Present Continuous",
+      "prompt": "She is reading a book right now.",
+      "correct": true,
+      "difficulty": "easy",
+      "explanation": "Use the present continuous for actions happening now.",
+      "tags": ["grammar", "present"]
+    },
+    {
+      "type": "mcq",
+      "topic": "Present Simple vs Present Continuous",
+      "prompt": "Choose the correct sentence.",
+      "options": ["He play football every day.", "He plays football every day.", "He is play football every day."],
+      "answer": "He plays football every day.",
+      "difficulty": "easy",
+      "explanation": "Add -s to the verb with he/she/it in the present simple."
+    },
+    {
+      "type": "fill",
+      "topic": "Present Simple vs Present Continuous",
+      "prompt": "Look! They ____ (run) in the park.",
+      "answers": ["are running", "'re running"],
+      "difficulty": "easy",
+      "explanation": "Use are + verb-ing with they."
+    },
+    {
+      "type": "error",
+      "topic": "Present Simple vs Present Continuous",
+      "prompt": "Click the incorrect part.",
+      "chunks": ["He", "go", "to school", "every day."],
+      "wrong_index": 2,
+      "correction": "He goes to school every day.",
+      "explanation": "Use goes with he."
+    },
+    {
+      "type": "match",
+      "topic": "Present Simple vs Present Continuous",
+      "prompt": "Match the expression with its typical tense.",
+      "pairs": [
+        ["every day", "Routine"],
+        ["right now", "Action happening now"],
+        ["usually", "Habit"],
+        ["at the moment", "Temporary ongoing action"]
+      ],
+      "explanation": "Time expressions can help you identify the tense."
+    }
+  ],
+  "activities": [
+    {
+      "title": "Present Tenses — Practice",
+      "subtitle": "Mixed grammar practice",
+      "icon": "🎯",
+      "mode": "practice",
+      "game_type": "mixed",
+      "topic_filter": "Present Simple vs Present Continuous",
+      "question_count": 5,
+      "time_limit": 0
+    },
+    {
+      "title": "Present Tenses — Quiz",
+      "subtitle": "Multiple-choice revision",
+      "icon": "🧠",
+      "mode": "assignment",
+      "game_type": "mcq",
+      "topic_filter": "Present Simple vs Present Continuous",
+      "question_count": 5,
+      "attempts_allowed": 2
+    }
+  ]
+}

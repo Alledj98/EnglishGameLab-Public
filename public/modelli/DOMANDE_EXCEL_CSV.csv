@@ -1,0 +1,6 @@
+﻿type;topic;prompt;difficulty;vocabulary;explanation;correction;tags;options;answer;correct;answers;chunks;wrong_index;pairs
+swipe;Sports;She plays tennis on Sundays.;easy;Sports;Use Present Simple for habits.;;grammar;;;true;;;;
+mcq;Sports;Which sentence is correct?;easy;Sports;Use -s with he/she/it.;;grammar;He play football|He plays football|He playing football;He plays football;;;;;
+fill;Sports;I ____ (swim) every Saturday.;easy;Sports;Use Present Simple with I.;;grammar;;;;swim;;;
+error;Sports;Find the mistake.;easy;Sports;Use does with he.;He does not like basketball.;grammar;;;;;He|do not|like basketball;2;
+match;Sports;Match the words.;easy;Sports;Vocabulary revision.;;vocabulary;;;;;;;football=calcio|tennis=tennis|swimming=nuoto

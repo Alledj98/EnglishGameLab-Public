@@ -1,0 +1,21 @@
+name: Local source tests (no deploy)
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node functions/validate_seed.js
+      - run: |
+          node tests/test_bulk.js
+          node tests/test_duplicate_questions.js
+          node tests/test_teacher_prompt.js
+          node tests/test_v7.js
+          node tests/test_v8.js
+      - run: node tests/test_publication_safety.js

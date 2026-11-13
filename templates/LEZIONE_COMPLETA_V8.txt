@@ -1,0 +1,93 @@
+# ENGLISH GAME LAB V8 - MODELLO COMPLETO PER DOCENTE
+# Copia i blocchi, modifica le frasi, separa ogni domanda/attività con ---
+# Le domande importate restano INATTIVE, le attività NON PUBBLICATE.
+# Importante: se una domanda contiene un audio devi registrarlo sul sito prima di attivarla.
+
+ARGOMENTO: Animali e Present Simple
+DIFFICOLTÀ: facile
+
+GIOCO: Vero o falso
+DOMANDA: She plays football every Saturday.
+RISPOSTA: vero
+SPIEGAZIONE: Alla terza persona si aggiunge -s.
+
+---
+
+GIOCO: Scelta multipla
+DOMANDA: Choose the correct sentence.
+OPZIONI: She play tennis. | She plays tennis. | She playing tennis.
+RISPOSTA: She plays tennis.
+
+---
+
+# Quick Tap usa esattamente le stesse domande di Scelta multipla.
+# Word Order usa una domanda di Completa con una frase completa come risposta.
+GIOCO: Word Order
+DOMANDA: Riordina le parole per creare la frase.
+RISPOSTA: They are playing tennis today.
+
+---
+
+# Memory usa le stesse coppie di Abbinamenti.
+GIOCO: Memory
+DOMANDA: Associa gli animali e le traduzioni.
+COPPIE:
+cat = gatto
+dog = cane
+bird = uccello
+
+---
+
+GIOCO: Ascolta e scegli
+DOMANDA: Listen and choose the sentence you hear.
+TESTO DA LEGGERE: She is reading a book.
+OPZIONI: She is reading a book. | She is writing a book. | She reads a book every day.
+RISPOSTA: She is reading a book.
+
+---
+
+GIOCO: Dettato
+DOMANDA: Listen and write the word.
+TESTO DA LEGGERE: Elephant
+RISPOSTA: elephant
+
+---
+
+ATTIVITÀ: Memory - Animali
+GIOCO: Memory
+NUMERO DOMANDE: 1
+TEMPO MEMORY: 20
+
+---
+
+ATTIVITÀ: Time Attack - Vero o falso
+GIOCO: Swipe
+NUMERO DOMANDE: 10
+TIMER: 60
+SFIDA A TEMPO: sì
+
+---
+
+ATTIVITÀ: Quick Tap - Risposta veloce
+GIOCO: Quick Tap
+NUMERO DOMANDE: 10
+TIMER: 60
+SFIDA A TEMPO: sì
+
+---
+
+ATTIVITÀ: Word Order - Riordina le parole
+GIOCO: Word Order
+NUMERO DOMANDE: 5
+
+---
+
+ATTIVITÀ: Listening
+GIOCO: Ascolta e scegli
+NUMERO DOMANDE: 5
+
+---
+
+ATTIVITÀ: Spelling
+GIOCO: Dettato
+NUMERO DOMANDE: 5

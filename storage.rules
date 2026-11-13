@@ -1,0 +1,10 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    // All browser-side reads and writes are prohibited; the authenticated
+    // Cloud Function uses the Admin SDK to serve authorized small audio clips.
+    match /{allPaths=**} {
+      allow read, write: if false;
+    }
+  }
+}

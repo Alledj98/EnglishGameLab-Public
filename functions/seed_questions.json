@@ -1,0 +1,4235 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "prompt": "Emma ___ tennis on Saturdays.",
+    "payload": {
+      "options": [
+        "play",
+        "plays",
+        "is playing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“On Saturdays” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.384967+00:00",
+    "updated_at": "2026-09-22T15:39:57.384967+00:00"
+  },
+  {
+    "id": 2,
+    "type": "swipe",
+    "prompt": "Emma plays tennis on Saturdays.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385109+00:00",
+    "updated_at": "2026-09-22T15:39:57.385109+00:00"
+  },
+  {
+    "id": 3,
+    "type": "swipe",
+    "prompt": "Emma play tennis on Saturdays.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "With Emma, the verb needs the third-person form: “plays”.",
+    "correction": "Emma plays tennis on Saturdays.",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385137+00:00",
+    "updated_at": "2026-09-22T15:39:57.385137+00:00"
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "prompt": "Tom ___ football every Sunday.",
+    "payload": {
+      "options": [
+        "play",
+        "plays",
+        "is playing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Every Sunday” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385157+00:00",
+    "updated_at": "2026-09-22T15:39:57.385157+00:00"
+  },
+  {
+    "id": 5,
+    "type": "swipe",
+    "prompt": "Tom plays football every Sunday.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385175+00:00",
+    "updated_at": "2026-09-22T15:39:57.385175+00:00"
+  },
+  {
+    "id": 6,
+    "type": "swipe",
+    "prompt": "Tom play football every Sunday.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "With Tom, the verb needs the third-person form: “plays”.",
+    "correction": "Tom plays football every Sunday.",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385188+00:00",
+    "updated_at": "2026-09-22T15:39:57.385188+00:00"
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "prompt": "Luca ___ basketball after school.",
+    "payload": {
+      "options": [
+        "play",
+        "plays",
+        "is playing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“After school” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385202+00:00",
+    "updated_at": "2026-09-22T15:39:57.385202+00:00"
+  },
+  {
+    "id": 8,
+    "type": "swipe",
+    "prompt": "Luca plays basketball after school.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385217+00:00",
+    "updated_at": "2026-09-22T15:39:57.385217+00:00"
+  },
+  {
+    "id": 9,
+    "type": "swipe",
+    "prompt": "Luca play basketball after school.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "With Luca, the verb needs the third-person form: “plays”.",
+    "correction": "Luca plays basketball after school.",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385229+00:00",
+    "updated_at": "2026-09-22T15:39:57.385229+00:00"
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "prompt": "Maya ___ swimming on Tuesdays.",
+    "payload": {
+      "options": [
+        "go",
+        "goes",
+        "is going"
+      ],
+      "correct": 1
+    },
+    "explanation": "“On Tuesdays” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385243+00:00",
+    "updated_at": "2026-09-22T15:39:57.385243+00:00"
+  },
+  {
+    "id": 11,
+    "type": "swipe",
+    "prompt": "Maya goes swimming on Tuesdays.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385256+00:00",
+    "updated_at": "2026-09-22T15:39:57.385256+00:00"
+  },
+  {
+    "id": 12,
+    "type": "swipe",
+    "prompt": "Maya go swimming on Tuesdays.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "With Maya, the verb needs the third-person form: “goes”.",
+    "correction": "Maya goes swimming on Tuesdays.",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385292+00:00",
+    "updated_at": "2026-09-22T15:39:57.385292+00:00"
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "prompt": "Noah ___ his bike every afternoon.",
+    "payload": {
+      "options": [
+        "ride",
+        "rides",
+        "is riding"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Every afternoon” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385308+00:00",
+    "updated_at": "2026-09-22T15:39:57.385308+00:00"
+  },
+  {
+    "id": 14,
+    "type": "swipe",
+    "prompt": "Noah rides his bike every afternoon.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385321+00:00",
+    "updated_at": "2026-09-22T15:39:57.385321+00:00"
+  },
+  {
+    "id": 15,
+    "type": "swipe",
+    "prompt": "Noah ride his bike every afternoon.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "With Noah, the verb needs the third-person form: “rides”.",
+    "correction": "Noah rides his bike every afternoon.",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385334+00:00",
+    "updated_at": "2026-09-22T15:39:57.385334+00:00"
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "prompt": "Sofia ___ TV after dinner.",
+    "payload": {
+      "options": [
+        "watch",
+        "watches",
+        "is watching"
+      ],
+      "correct": 1
+    },
+    "explanation": "“After dinner” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385399+00:00",
+    "updated_at": "2026-09-22T15:39:57.385399+00:00"
+  },
+  {
+    "id": 17,
+    "type": "swipe",
+    "prompt": "Sofia watches TV after dinner.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385419+00:00",
+    "updated_at": "2026-09-22T15:39:57.385419+00:00"
+  },
+  {
+    "id": 18,
+    "type": "swipe",
+    "prompt": "Sofia watch TV after dinner.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "With Sofia, the verb needs the third-person form: “watches”.",
+    "correction": "Sofia watches TV after dinner.",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385432+00:00",
+    "updated_at": "2026-09-22T15:39:57.385432+00:00"
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "prompt": "Jack ___ English every evening.",
+    "payload": {
+      "options": [
+        "study",
+        "studies",
+        "is studying"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Every evening” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385882+00:00",
+    "updated_at": "2026-09-22T15:39:57.385882+00:00"
+  },
+  {
+    "id": 20,
+    "type": "swipe",
+    "prompt": "Jack studies English every evening.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385930+00:00",
+    "updated_at": "2026-09-22T15:39:57.385930+00:00"
+  },
+  {
+    "id": 21,
+    "type": "swipe",
+    "prompt": "Jack study English every evening.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "With Jack, the verb needs the third-person form: “studies”.",
+    "correction": "Jack studies English every evening.",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385944+00:00",
+    "updated_at": "2026-09-22T15:39:57.385944+00:00"
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "prompt": "Aisha ___ a book before bed.",
+    "payload": {
+      "options": [
+        "read",
+        "reads",
+        "is reading"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Before bed” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385957+00:00",
+    "updated_at": "2026-09-22T15:39:57.385957+00:00"
+  },
+  {
+    "id": 23,
+    "type": "swipe",
+    "prompt": "Aisha reads a book before bed.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385970+00:00",
+    "updated_at": "2026-09-22T15:39:57.385970+00:00"
+  },
+  {
+    "id": 24,
+    "type": "swipe",
+    "prompt": "Aisha reading a book before bed.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "For this routine, use the Present Simple: “Aisha reads…”. “Aisha reading…” is not a complete verb form.",
+    "correction": "Aisha reads a book before bed.",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385982+00:00",
+    "updated_at": "2026-09-22T15:39:57.385982+00:00"
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "prompt": "Leo ___ to school every morning.",
+    "payload": {
+      "options": [
+        "walk",
+        "walks",
+        "is walking"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Every morning” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.385995+00:00",
+    "updated_at": "2026-09-22T15:39:57.385995+00:00"
+  },
+  {
+    "id": 26,
+    "type": "swipe",
+    "prompt": "Leo walks to school every morning.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386008+00:00",
+    "updated_at": "2026-09-22T15:39:57.386008+00:00"
+  },
+  {
+    "id": 27,
+    "type": "swipe",
+    "prompt": "Leo walk to school every morning.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "With Leo, the verb needs the third-person form: “walks”.",
+    "correction": "Leo walks to school every morning.",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386021+00:00",
+    "updated_at": "2026-09-22T15:39:57.386021+00:00"
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "prompt": "Nora ___ her homework after lunch.",
+    "payload": {
+      "options": [
+        "do",
+        "does",
+        "is doing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“After lunch” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386035+00:00",
+    "updated_at": "2026-09-22T15:39:57.386035+00:00"
+  },
+  {
+    "id": 29,
+    "type": "swipe",
+    "prompt": "Nora does her homework after lunch.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386048+00:00",
+    "updated_at": "2026-09-22T15:39:57.386048+00:00"
+  },
+  {
+    "id": 30,
+    "type": "swipe",
+    "prompt": "Nora do her homework after lunch.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "With Nora, the verb needs the third-person form: “does”.",
+    "correction": "Nora does her homework after lunch.",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386062+00:00",
+    "updated_at": "2026-09-22T15:39:57.386062+00:00"
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "prompt": "Ben ___ his hands before dinner.",
+    "payload": {
+      "options": [
+        "wash",
+        "washes",
+        "is washing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Before dinner” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386075+00:00",
+    "updated_at": "2026-09-22T15:39:57.386075+00:00"
+  },
+  {
+    "id": 32,
+    "type": "swipe",
+    "prompt": "Ben washes his hands before dinner.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386088+00:00",
+    "updated_at": "2026-09-22T15:39:57.386088+00:00"
+  },
+  {
+    "id": 33,
+    "type": "swipe",
+    "prompt": "Ben wash his hands before dinner.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "With Ben, the verb needs the third-person form: “washes”.",
+    "correction": "Ben washes his hands before dinner.",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386100+00:00",
+    "updated_at": "2026-09-22T15:39:57.386100+00:00"
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "prompt": "Olivia ___ her teeth twice a day.",
+    "payload": {
+      "options": [
+        "brush",
+        "brushes",
+        "is brushing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Twice a day” describes a routine. With he/she/it or a singular name, the Present Simple usually takes -s/-es.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine",
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386113+00:00",
+    "updated_at": "2026-09-22T15:39:57.386113+00:00"
+  },
+  {
+    "id": 35,
+    "type": "swipe",
+    "prompt": "Olivia brushes her teeth twice a day.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "This sentence describes a habit or routine, so the Present Simple is correct.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "routine"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386125+00:00",
+    "updated_at": "2026-09-22T15:39:57.386125+00:00"
+  },
+  {
+    "id": 36,
+    "type": "swipe",
+    "prompt": "Olivia brush her teeth twice a day.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "With Olivia, the verb needs the third-person form: “brushes”.",
+    "correction": "Olivia brushes her teeth twice a day.",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "third-person"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386137+00:00",
+    "updated_at": "2026-09-22T15:39:57.386137+00:00"
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "prompt": "I ___ breakfast at 7:30 every day.",
+    "payload": {
+      "options": [
+        "have",
+        "has",
+        "am having"
+      ],
+      "correct": 0
+    },
+    "explanation": "A repeated daily action uses the Present Simple.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386162+00:00",
+    "updated_at": "2026-09-22T15:39:57.386162+00:00"
+  },
+  {
+    "id": 38,
+    "type": "fill",
+    "prompt": "I ___ breakfast at 7:30 every day.",
+    "payload": {
+      "answers": [
+        "have"
+      ]
+    },
+    "explanation": "A repeated daily action uses the Present Simple.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386176+00:00",
+    "updated_at": "2026-09-22T15:39:57.386176+00:00"
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "prompt": "We ___ to music after school.",
+    "payload": {
+      "options": [
+        "listen",
+        "listens",
+        "are listening"
+      ],
+      "correct": 0
+    },
+    "explanation": "With “we”, use the base form in the Present Simple.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386190+00:00",
+    "updated_at": "2026-09-22T15:39:57.386190+00:00"
+  },
+  {
+    "id": 40,
+    "type": "fill",
+    "prompt": "We ___ to music after school.",
+    "payload": {
+      "answers": [
+        "listen"
+      ]
+    },
+    "explanation": "With “we”, use the base form in the Present Simple.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386203+00:00",
+    "updated_at": "2026-09-22T15:39:57.386203+00:00"
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "prompt": "My brother ___ video games on Fridays.",
+    "payload": {
+      "options": [
+        "play",
+        "plays",
+        "is playing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“My brother” is third person singular, so add -s.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386216+00:00",
+    "updated_at": "2026-09-22T15:39:57.386216+00:00"
+  },
+  {
+    "id": 42,
+    "type": "fill",
+    "prompt": "My brother ___ video games on Fridays.",
+    "payload": {
+      "answers": [
+        "plays"
+      ]
+    },
+    "explanation": "“My brother” is third person singular, so add -s.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386228+00:00",
+    "updated_at": "2026-09-22T15:39:57.386228+00:00"
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "prompt": "She ___ like carrots.",
+    "payload": {
+      "options": [
+        "don’t",
+        "doesn’t",
+        "isn’t"
+      ],
+      "correct": 1
+    },
+    "explanation": "Negative Present Simple with she/he/it uses “doesn’t”.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386244+00:00",
+    "updated_at": "2026-09-22T15:39:57.386244+00:00"
+  },
+  {
+    "id": 44,
+    "type": "fill",
+    "prompt": "She ___ like carrots.",
+    "payload": {
+      "answers": [
+        "doesn’t"
+      ]
+    },
+    "explanation": "Negative Present Simple with she/he/it uses “doesn’t”.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386259+00:00",
+    "updated_at": "2026-09-22T15:39:57.386259+00:00"
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "prompt": "___ your friends walk to school?",
+    "payload": {
+      "options": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "correct": 0
+    },
+    "explanation": "Questions with “your friends” use “Do”.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386273+00:00",
+    "updated_at": "2026-09-22T15:39:57.386273+00:00"
+  },
+  {
+    "id": 46,
+    "type": "fill",
+    "prompt": "___ your friends walk to school?",
+    "payload": {
+      "answers": [
+        "Do"
+      ]
+    },
+    "explanation": "Questions with “your friends” use “Do”.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386291+00:00",
+    "updated_at": "2026-09-22T15:39:57.386291+00:00"
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "prompt": "___ he speak English at home?",
+    "payload": {
+      "options": [
+        "Do",
+        "Does",
+        "Is"
+      ],
+      "correct": 1
+    },
+    "explanation": "Questions with he/she/it use “Does”.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386313+00:00",
+    "updated_at": "2026-09-22T15:39:57.386313+00:00"
+  },
+  {
+    "id": 48,
+    "type": "fill",
+    "prompt": "___ he speak English at home?",
+    "payload": {
+      "answers": [
+        "Does"
+      ]
+    },
+    "explanation": "Questions with he/she/it use “Does”.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386418+00:00",
+    "updated_at": "2026-09-22T15:39:57.386418+00:00"
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "prompt": "My parents ___ coffee in the morning.",
+    "payload": {
+      "options": [
+        "drinks",
+        "drink",
+        "are drinking"
+      ],
+      "correct": 1
+    },
+    "explanation": "“My parents” is plural, so use the base form.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386433+00:00",
+    "updated_at": "2026-09-22T15:39:57.386433+00:00"
+  },
+  {
+    "id": 50,
+    "type": "fill",
+    "prompt": "My parents ___ coffee in the morning.",
+    "payload": {
+      "answers": [
+        "drink"
+      ]
+    },
+    "explanation": "“My parents” is plural, so use the base form.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386445+00:00",
+    "updated_at": "2026-09-22T15:39:57.386445+00:00"
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "prompt": "The lesson ___ at 8:15.",
+    "payload": {
+      "options": [
+        "start",
+        "starts",
+        "is starting"
+      ],
+      "correct": 1
+    },
+    "explanation": "Schedules and timetables often use the Present Simple.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386458+00:00",
+    "updated_at": "2026-09-22T15:39:57.386458+00:00"
+  },
+  {
+    "id": 52,
+    "type": "fill",
+    "prompt": "The lesson ___ at 8:15.",
+    "payload": {
+      "answers": [
+        "starts"
+      ]
+    },
+    "explanation": "Schedules and timetables often use the Present Simple.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386512+00:00",
+    "updated_at": "2026-09-22T15:39:57.386512+00:00"
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "prompt": "I ___ never late for school.",
+    "payload": {
+      "options": [
+        "am",
+        "is",
+        "be"
+      ],
+      "correct": 0
+    },
+    "explanation": "With “I” and the verb be, use “am”: “I am never late for school.”",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386530+00:00",
+    "updated_at": "2026-09-22T15:39:57.386530+00:00"
+  },
+  {
+    "id": 54,
+    "type": "fill",
+    "prompt": "I ___ never late for school.",
+    "payload": {
+      "answers": [
+        "am"
+      ]
+    },
+    "explanation": "With “I” and the verb be, use “am”: “I am never late for school.”",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386543+00:00",
+    "updated_at": "2026-09-22T15:39:57.386543+00:00"
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "prompt": "Sara usually ___ her room on Saturday.",
+    "payload": {
+      "options": [
+        "tidy",
+        "tidies",
+        "is tidying"
+      ],
+      "correct": 1
+    },
+    "explanation": "A routine with third person singular: tidy → tidies.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386554+00:00",
+    "updated_at": "2026-09-22T15:39:57.386554+00:00"
+  },
+  {
+    "id": 56,
+    "type": "fill",
+    "prompt": "Sara usually ___ her room on Saturday.",
+    "payload": {
+      "answers": [
+        "tidies"
+      ]
+    },
+    "explanation": "A routine with third person singular: tidy → tidies.",
+    "correction": "",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386567+00:00",
+    "updated_at": "2026-09-22T15:39:57.386567+00:00"
+  },
+  {
+    "id": 57,
+    "type": "swipe",
+    "prompt": "Emma is playing tennis now.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Now” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386584+00:00",
+    "updated_at": "2026-09-22T15:39:57.386584+00:00"
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "prompt": "Look! Emma ___ tennis.",
+    "payload": {
+      "options": [
+        "plays",
+        "is playing",
+        "playing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386599+00:00",
+    "updated_at": "2026-09-22T15:39:57.386599+00:00"
+  },
+  {
+    "id": 59,
+    "type": "fill",
+    "prompt": "Emma is ___ tennis now.",
+    "payload": {
+      "answers": [
+        "playing"
+      ]
+    },
+    "explanation": "Use the -ing form: play → playing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386613+00:00",
+    "updated_at": "2026-09-22T15:39:57.386613+00:00"
+  },
+  {
+    "id": 60,
+    "type": "swipe",
+    "prompt": "Tom is kicking the ball right now.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Right now” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386627+00:00",
+    "updated_at": "2026-09-22T15:39:57.386627+00:00"
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "prompt": "Look! Tom ___ the ball.",
+    "payload": {
+      "options": [
+        "kicks",
+        "is kicking",
+        "kicking"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386641+00:00",
+    "updated_at": "2026-09-22T15:39:57.386641+00:00"
+  },
+  {
+    "id": 62,
+    "type": "fill",
+    "prompt": "Tom is ___ the ball right now.",
+    "payload": {
+      "answers": [
+        "kicking"
+      ]
+    },
+    "explanation": "Use the -ing form: kick → kicking.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386656+00:00",
+    "updated_at": "2026-09-22T15:39:57.386656+00:00"
+  },
+  {
+    "id": 63,
+    "type": "swipe",
+    "prompt": "Luca is running in the park at the moment.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“At the moment” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386673+00:00",
+    "updated_at": "2026-09-22T15:39:57.386673+00:00"
+  },
+  {
+    "id": 64,
+    "type": "mcq",
+    "prompt": "Look! Luca ___ in the park.",
+    "payload": {
+      "options": [
+        "runs",
+        "is running",
+        "running"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386685+00:00",
+    "updated_at": "2026-09-22T15:39:57.386685+00:00"
+  },
+  {
+    "id": 65,
+    "type": "fill",
+    "prompt": "Luca is ___ in the park at the moment.",
+    "payload": {
+      "answers": [
+        "running"
+      ]
+    },
+    "explanation": "Use the -ing form: run → running.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386698+00:00",
+    "updated_at": "2026-09-22T15:39:57.386698+00:00"
+  },
+  {
+    "id": 66,
+    "type": "swipe",
+    "prompt": "Maya is swimming in the pool now.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Now” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386710+00:00",
+    "updated_at": "2026-09-22T15:39:57.386710+00:00"
+  },
+  {
+    "id": 67,
+    "type": "mcq",
+    "prompt": "Look! Maya ___ in the pool.",
+    "payload": {
+      "options": [
+        "swims",
+        "is swimming",
+        "swimming"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386722+00:00",
+    "updated_at": "2026-09-22T15:39:57.386722+00:00"
+  },
+  {
+    "id": 68,
+    "type": "fill",
+    "prompt": "Maya is ___ in the pool now.",
+    "payload": {
+      "answers": [
+        "swimming"
+      ]
+    },
+    "explanation": "Use the -ing form: swim → swimming.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386734+00:00",
+    "updated_at": "2026-09-22T15:39:57.386734+00:00"
+  },
+  {
+    "id": 69,
+    "type": "swipe",
+    "prompt": "Noah is riding his bike right now.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Right now” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386747+00:00",
+    "updated_at": "2026-09-22T15:39:57.386747+00:00"
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "prompt": "Look! Noah ___ his bike.",
+    "payload": {
+      "options": [
+        "rides",
+        "is riding",
+        "riding"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386758+00:00",
+    "updated_at": "2026-09-22T15:39:57.386758+00:00"
+  },
+  {
+    "id": 71,
+    "type": "fill",
+    "prompt": "Noah is ___ his bike right now.",
+    "payload": {
+      "answers": [
+        "riding"
+      ]
+    },
+    "explanation": "Use the -ing form: ride → riding.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386770+00:00",
+    "updated_at": "2026-09-22T15:39:57.386770+00:00"
+  },
+  {
+    "id": 72,
+    "type": "swipe",
+    "prompt": "Sofia is watching a film at the moment.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“At the moment” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386783+00:00",
+    "updated_at": "2026-09-22T15:39:57.386783+00:00"
+  },
+  {
+    "id": 73,
+    "type": "mcq",
+    "prompt": "Look! Sofia ___ a film.",
+    "payload": {
+      "options": [
+        "watches",
+        "is watching",
+        "watching"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386797+00:00",
+    "updated_at": "2026-09-22T15:39:57.386797+00:00"
+  },
+  {
+    "id": 74,
+    "type": "fill",
+    "prompt": "Sofia is ___ a film at the moment.",
+    "payload": {
+      "answers": [
+        "watching"
+      ]
+    },
+    "explanation": "Use the -ing form: watch → watching.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386810+00:00",
+    "updated_at": "2026-09-22T15:39:57.386810+00:00"
+  },
+  {
+    "id": 75,
+    "type": "swipe",
+    "prompt": "Jack is studying for a test now.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Now” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386823+00:00",
+    "updated_at": "2026-09-22T15:39:57.386823+00:00"
+  },
+  {
+    "id": 76,
+    "type": "mcq",
+    "prompt": "Look! Jack ___ for a test.",
+    "payload": {
+      "options": [
+        "studies",
+        "is studying",
+        "studying"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386835+00:00",
+    "updated_at": "2026-09-22T15:39:57.386835+00:00"
+  },
+  {
+    "id": 77,
+    "type": "fill",
+    "prompt": "Jack is ___ for a test now.",
+    "payload": {
+      "answers": [
+        "studying"
+      ]
+    },
+    "explanation": "Use the -ing form: study → studying.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386848+00:00",
+    "updated_at": "2026-09-22T15:39:57.386848+00:00"
+  },
+  {
+    "id": 78,
+    "type": "swipe",
+    "prompt": "Aisha is reading a comic right now.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Right now” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386861+00:00",
+    "updated_at": "2026-09-22T15:39:57.386861+00:00"
+  },
+  {
+    "id": 79,
+    "type": "mcq",
+    "prompt": "Look! Aisha ___ a comic.",
+    "payload": {
+      "options": [
+        "reads",
+        "is reading",
+        "reading"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.386873+00:00",
+    "updated_at": "2026-09-22T15:39:57.386873+00:00"
+  },
+  {
+    "id": 80,
+    "type": "fill",
+    "prompt": "Aisha is ___ a comic right now.",
+    "payload": {
+      "answers": [
+        "reading"
+      ]
+    },
+    "explanation": "Use the -ing form: read → reading.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387539+00:00",
+    "updated_at": "2026-09-22T15:39:57.387539+00:00"
+  },
+  {
+    "id": 81,
+    "type": "swipe",
+    "prompt": "Leo is walking home at the moment.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“At the moment” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387559+00:00",
+    "updated_at": "2026-09-22T15:39:57.387559+00:00"
+  },
+  {
+    "id": 82,
+    "type": "mcq",
+    "prompt": "Look! Leo ___ home.",
+    "payload": {
+      "options": [
+        "walks",
+        "is walking",
+        "walking"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387709+00:00",
+    "updated_at": "2026-09-22T15:39:57.387709+00:00"
+  },
+  {
+    "id": 83,
+    "type": "fill",
+    "prompt": "Leo is ___ home at the moment.",
+    "payload": {
+      "answers": [
+        "walking"
+      ]
+    },
+    "explanation": "Use the -ing form: walk → walking.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387791+00:00",
+    "updated_at": "2026-09-22T15:39:57.387791+00:00"
+  },
+  {
+    "id": 84,
+    "type": "swipe",
+    "prompt": "Nora is doing her homework now.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Now” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387807+00:00",
+    "updated_at": "2026-09-22T15:39:57.387807+00:00"
+  },
+  {
+    "id": 85,
+    "type": "mcq",
+    "prompt": "Look! Nora ___ her homework.",
+    "payload": {
+      "options": [
+        "does",
+        "is doing",
+        "doing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387820+00:00",
+    "updated_at": "2026-09-22T15:39:57.387820+00:00"
+  },
+  {
+    "id": 86,
+    "type": "fill",
+    "prompt": "Nora is ___ her homework now.",
+    "payload": {
+      "answers": [
+        "doing"
+      ]
+    },
+    "explanation": "Use the -ing form: do → doing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387833+00:00",
+    "updated_at": "2026-09-22T15:39:57.387833+00:00"
+  },
+  {
+    "id": 87,
+    "type": "swipe",
+    "prompt": "Ben is touching his nose right now.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Right now” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387846+00:00",
+    "updated_at": "2026-09-22T15:39:57.387846+00:00"
+  },
+  {
+    "id": 88,
+    "type": "mcq",
+    "prompt": "Look! Ben ___ his nose.",
+    "payload": {
+      "options": [
+        "touches",
+        "is touching",
+        "touching"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387858+00:00",
+    "updated_at": "2026-09-22T15:39:57.387858+00:00"
+  },
+  {
+    "id": 89,
+    "type": "fill",
+    "prompt": "Ben is ___ his nose right now.",
+    "payload": {
+      "answers": [
+        "touching"
+      ]
+    },
+    "explanation": "Use the -ing form: touch → touching.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Body Parts",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387873+00:00",
+    "updated_at": "2026-09-22T15:39:57.387873+00:00"
+  },
+  {
+    "id": 90,
+    "type": "swipe",
+    "prompt": "Olivia is washing her hands at the moment.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“At the moment” tells us the action is happening around this moment, so use the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "now"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387886+00:00",
+    "updated_at": "2026-09-22T15:39:57.387886+00:00"
+  },
+  {
+    "id": 91,
+    "type": "mcq",
+    "prompt": "Look! Olivia ___ her hands.",
+    "payload": {
+      "options": [
+        "washes",
+        "is washing",
+        "washing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” points to something happening now, so we need be + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "look",
+      "be+ing"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387899+00:00",
+    "updated_at": "2026-09-22T15:39:57.387899+00:00"
+  },
+  {
+    "id": 92,
+    "type": "fill",
+    "prompt": "Olivia is ___ her hands at the moment.",
+    "payload": {
+      "answers": [
+        "washing"
+      ]
+    },
+    "explanation": "Use the -ing form: wash → washing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "Body Parts",
+    "difficulty": "medium",
+    "tags": [
+      "spelling"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387914+00:00",
+    "updated_at": "2026-09-22T15:39:57.387914+00:00"
+  },
+  {
+    "id": 93,
+    "type": "mcq",
+    "prompt": "Listen! The baby ___.",
+    "payload": {
+      "options": [
+        "cries",
+        "is crying",
+        "cry"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Listen!” signals an action happening now.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387928+00:00",
+    "updated_at": "2026-09-22T15:39:57.387928+00:00"
+  },
+  {
+    "id": 94,
+    "type": "mcq",
+    "prompt": "We ___ English now.",
+    "payload": {
+      "options": [
+        "study",
+        "are studying",
+        "studies"
+      ],
+      "correct": 1
+    },
+    "explanation": "With “we”, use are + verb-ing.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387942+00:00",
+    "updated_at": "2026-09-22T15:39:57.387942+00:00"
+  },
+  {
+    "id": 95,
+    "type": "mcq",
+    "prompt": "I ___ my new jacket today.",
+    "payload": {
+      "options": [
+        "wear",
+        "am wearing",
+        "wears"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Today” can describe a temporary situation, so the Present Continuous is natural here.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387954+00:00",
+    "updated_at": "2026-09-22T15:39:57.387954+00:00"
+  },
+  {
+    "id": 96,
+    "type": "mcq",
+    "prompt": "They ___ football at the moment.",
+    "payload": {
+      "options": [
+        "play",
+        "plays",
+        "are playing"
+      ],
+      "correct": 2
+    },
+    "explanation": "“At the moment” strongly suggests the Present Continuous.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387967+00:00",
+    "updated_at": "2026-09-22T15:39:57.387967+00:00"
+  },
+  {
+    "id": 97,
+    "type": "mcq",
+    "prompt": "She ___ a message right now.",
+    "payload": {
+      "options": [
+        "writes",
+        "is writing",
+        "write"
+      ],
+      "correct": 1
+    },
+    "explanation": "Use is + writing for an action happening right now.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387978+00:00",
+    "updated_at": "2026-09-22T15:39:57.387978+00:00"
+  },
+  {
+    "id": 98,
+    "type": "mcq",
+    "prompt": "___ you listening to me?",
+    "payload": {
+      "options": [
+        "Do",
+        "Are",
+        "Does"
+      ],
+      "correct": 1
+    },
+    "explanation": "Present Continuous questions use be before the subject.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.387990+00:00",
+    "updated_at": "2026-09-22T15:39:57.387990+00:00"
+  },
+  {
+    "id": 99,
+    "type": "mcq",
+    "prompt": "He isn’t ___ today.",
+    "payload": {
+      "options": [
+        "work",
+        "working",
+        "works"
+      ],
+      "correct": 1
+    },
+    "explanation": "After “isn’t”, use the -ing form.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388002+00:00",
+    "updated_at": "2026-09-22T15:39:57.388002+00:00"
+  },
+  {
+    "id": 100,
+    "type": "mcq",
+    "prompt": "The students ___ quietly now.",
+    "payload": {
+      "options": [
+        "sit",
+        "are sitting",
+        "sits"
+      ],
+      "correct": 1
+    },
+    "explanation": "Now → Present Continuous; sit doubles the final consonant: sitting.",
+    "correction": "",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "forms"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388013+00:00",
+    "updated_at": "2026-09-22T15:39:57.388013+00:00"
+  },
+  {
+    "id": 101,
+    "type": "mcq",
+    "prompt": "Every Saturday, Mia ___ volleyball.",
+    "payload": {
+      "options": [
+        "plays",
+        "is playing"
+      ],
+      "correct": 0
+    },
+    "explanation": "“Every Saturday” describes a regular habit.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388029+00:00",
+    "updated_at": "2026-09-22T15:39:57.388029+00:00"
+  },
+  {
+    "id": 102,
+    "type": "mcq",
+    "prompt": "Be quiet! Mia ___ for her English test.",
+    "payload": {
+      "options": [
+        "studies",
+        "is studying"
+      ],
+      "correct": 1
+    },
+    "explanation": "The action is happening now.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388046+00:00",
+    "updated_at": "2026-09-22T15:39:57.388046+00:00"
+  },
+  {
+    "id": 103,
+    "type": "mcq",
+    "prompt": "My dad usually ___ to work by car.",
+    "payload": {
+      "options": [
+        "drives",
+        "is driving"
+      ],
+      "correct": 0
+    },
+    "explanation": "“Usually” is an adverb of frequency used for habits.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388059+00:00",
+    "updated_at": "2026-09-22T15:39:57.388059+00:00"
+  },
+  {
+    "id": 104,
+    "type": "mcq",
+    "prompt": "Today my dad ___ the bus.",
+    "payload": {
+      "options": [
+        "takes",
+        "is taking"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Today” describes a temporary change from the normal routine.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388072+00:00",
+    "updated_at": "2026-09-22T15:39:57.388072+00:00"
+  },
+  {
+    "id": 105,
+    "type": "mcq",
+    "prompt": "We ___ PE on Wednesdays.",
+    "payload": {
+      "options": [
+        "have",
+        "are having"
+      ],
+      "correct": 0
+    },
+    "explanation": "A weekly timetable uses the Present Simple.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388085+00:00",
+    "updated_at": "2026-09-22T15:39:57.388085+00:00"
+  },
+  {
+    "id": 106,
+    "type": "mcq",
+    "prompt": "Look! They ___ basketball in the playground.",
+    "payload": {
+      "options": [
+        "play",
+        "are playing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Look!” tells us to focus on what is happening now.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388097+00:00",
+    "updated_at": "2026-09-22T15:39:57.388097+00:00"
+  },
+  {
+    "id": 107,
+    "type": "mcq",
+    "prompt": "Sam often ___ his bike after school.",
+    "payload": {
+      "options": [
+        "rides",
+        "is riding"
+      ],
+      "correct": 0
+    },
+    "explanation": "“Often” describes frequency.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388109+00:00",
+    "updated_at": "2026-09-22T15:39:57.388109+00:00"
+  },
+  {
+    "id": 108,
+    "type": "mcq",
+    "prompt": "Sam ___ his bike right now.",
+    "payload": {
+      "options": [
+        "rides",
+        "is riding"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Right now” requires the Present Continuous.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388121+00:00",
+    "updated_at": "2026-09-22T15:39:57.388121+00:00"
+  },
+  {
+    "id": 109,
+    "type": "mcq",
+    "prompt": "My sister never ___ breakfast before school.",
+    "payload": {
+      "options": [
+        "skips",
+        "is skipping"
+      ],
+      "correct": 0
+    },
+    "explanation": "“Never” describes a habitual frequency.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388134+00:00",
+    "updated_at": "2026-09-22T15:39:57.388134+00:00"
+  },
+  {
+    "id": 110,
+    "type": "mcq",
+    "prompt": "This week, my sister ___ breakfast at school.",
+    "payload": {
+      "options": [
+        "has",
+        "is having"
+      ],
+      "correct": 1
+    },
+    "explanation": "“This week” can describe a temporary situation.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388147+00:00",
+    "updated_at": "2026-09-22T15:39:57.388147+00:00"
+  },
+  {
+    "id": 111,
+    "type": "mcq",
+    "prompt": "The train ___ at 7:10 every morning.",
+    "payload": {
+      "options": [
+        "leaves",
+        "is leaving"
+      ],
+      "correct": 0
+    },
+    "explanation": "Timetables use the Present Simple.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388159+00:00",
+    "updated_at": "2026-09-22T15:39:57.388159+00:00"
+  },
+  {
+    "id": 112,
+    "type": "mcq",
+    "prompt": "Hurry up! The train ___ the station now.",
+    "payload": {
+      "options": [
+        "leaves",
+        "is leaving"
+      ],
+      "correct": 1
+    },
+    "explanation": "The action is happening now.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388171+00:00",
+    "updated_at": "2026-09-22T15:39:57.388171+00:00"
+  },
+  {
+    "id": 113,
+    "type": "mcq",
+    "prompt": "Leo usually ___ glasses.",
+    "payload": {
+      "options": [
+        "wears",
+        "is wearing"
+      ],
+      "correct": 0
+    },
+    "explanation": "“Usually” describes a normal habit/state.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388182+00:00",
+    "updated_at": "2026-09-22T15:39:57.388182+00:00"
+  },
+  {
+    "id": 114,
+    "type": "mcq",
+    "prompt": "Leo ___ a red cap today.",
+    "payload": {
+      "options": [
+        "wears",
+        "is wearing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Today” describes what he has on now.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388193+00:00",
+    "updated_at": "2026-09-22T15:39:57.388193+00:00"
+  },
+  {
+    "id": 115,
+    "type": "mcq",
+    "prompt": "Our teacher often ___ us games in English.",
+    "payload": {
+      "options": [
+        "gives",
+        "is giving"
+      ],
+      "correct": 0
+    },
+    "explanation": "“Often” describes a repeated action.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388206+00:00",
+    "updated_at": "2026-09-22T15:39:57.388206+00:00"
+  },
+  {
+    "id": 116,
+    "type": "mcq",
+    "prompt": "Our teacher ___ us a quiz at the moment.",
+    "payload": {
+      "options": [
+        "gives",
+        "is giving"
+      ],
+      "correct": 1
+    },
+    "explanation": "“At the moment” signals the Present Continuous.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388217+00:00",
+    "updated_at": "2026-09-22T15:39:57.388217+00:00"
+  },
+  {
+    "id": 117,
+    "type": "mcq",
+    "prompt": "I ___ my teeth twice a day.",
+    "payload": {
+      "options": [
+        "brush",
+        "am brushing"
+      ],
+      "correct": 0
+    },
+    "explanation": "“Twice a day” describes a routine.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Body Parts",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388228+00:00",
+    "updated_at": "2026-09-22T15:39:57.388228+00:00"
+  },
+  {
+    "id": 118,
+    "type": "mcq",
+    "prompt": "I ___ my teeth right now.",
+    "payload": {
+      "options": [
+        "brush",
+        "am brushing"
+      ],
+      "correct": 1
+    },
+    "explanation": "The action is happening right now.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Body Parts",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388240+00:00",
+    "updated_at": "2026-09-22T15:39:57.388240+00:00"
+  },
+  {
+    "id": 119,
+    "type": "mcq",
+    "prompt": "She usually ___ her hair before school.",
+    "payload": {
+      "options": [
+        "brushes",
+        "is brushing"
+      ],
+      "correct": 0
+    },
+    "explanation": "“Usually” describes a routine.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Body Parts",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388251+00:00",
+    "updated_at": "2026-09-22T15:39:57.388251+00:00"
+  },
+  {
+    "id": 120,
+    "type": "mcq",
+    "prompt": "She ___ her hair now.",
+    "payload": {
+      "options": [
+        "brushes",
+        "is brushing"
+      ],
+      "correct": 1
+    },
+    "explanation": "“Now” requires the Present Continuous.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Body Parts",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388263+00:00",
+    "updated_at": "2026-09-22T15:39:57.388263+00:00"
+  },
+  {
+    "id": 121,
+    "type": "error",
+    "prompt": "He play football every Sunday.",
+    "payload": {
+      "chunks": [
+        "He",
+        "play",
+        "football",
+        "every Sunday"
+      ],
+      "correct": 1
+    },
+    "explanation": "With “he”, use “plays”.",
+    "correction": "He plays football every Sunday.",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388280+00:00",
+    "updated_at": "2026-09-22T15:39:57.388280+00:00"
+  },
+  {
+    "id": 122,
+    "type": "error",
+    "prompt": "She don’t like basketball.",
+    "payload": {
+      "chunks": [
+        "She",
+        "don’t",
+        "like",
+        "basketball"
+      ],
+      "correct": 1
+    },
+    "explanation": "With she/he/it, use “doesn’t”.",
+    "correction": "She doesn’t like basketball.",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388295+00:00",
+    "updated_at": "2026-09-22T15:39:57.388295+00:00"
+  },
+  {
+    "id": 123,
+    "type": "error",
+    "prompt": "Does they go swimming on Fridays?",
+    "payload": {
+      "chunks": [
+        "Does",
+        "they",
+        "go swimming",
+        "on Fridays"
+      ],
+      "correct": 0
+    },
+    "explanation": "With “they”, use “Do”, not “Does”.",
+    "correction": "Do they go swimming on Fridays?",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388309+00:00",
+    "updated_at": "2026-09-22T15:39:57.388309+00:00"
+  },
+  {
+    "id": 124,
+    "type": "error",
+    "prompt": "Look! Tom plays football now.",
+    "payload": {
+      "chunks": [
+        "Look!",
+        "Tom",
+        "plays",
+        "football now"
+      ],
+      "correct": 2
+    },
+    "explanation": "An action happening now needs “is playing”.",
+    "correction": "Look! Tom is playing football now.",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388323+00:00",
+    "updated_at": "2026-09-22T15:39:57.388323+00:00"
+  },
+  {
+    "id": 125,
+    "type": "error",
+    "prompt": "We is doing our homework at the moment.",
+    "payload": {
+      "chunks": [
+        "We",
+        "is doing",
+        "our homework",
+        "at the moment"
+      ],
+      "correct": 1
+    },
+    "explanation": "With “we”, use “are doing”.",
+    "correction": "We are doing our homework at the moment.",
+    "topic": "Present Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388337+00:00",
+    "updated_at": "2026-09-22T15:39:57.388337+00:00"
+  },
+  {
+    "id": 126,
+    "type": "error",
+    "prompt": "Mia are running in the park now.",
+    "payload": {
+      "chunks": [
+        "Mia",
+        "are running",
+        "in the park",
+        "now"
+      ],
+      "correct": 1
+    },
+    "explanation": "With one person/name, use “is running”.",
+    "correction": "Mia is running in the park now.",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388350+00:00",
+    "updated_at": "2026-09-22T15:39:57.388350+00:00"
+  },
+  {
+    "id": 127,
+    "type": "error",
+    "prompt": "I am play tennis right now.",
+    "payload": {
+      "chunks": [
+        "I",
+        "am play",
+        "tennis",
+        "right now"
+      ],
+      "correct": 1
+    },
+    "explanation": "Present Continuous needs verb-ing: “am playing”.",
+    "correction": "I am playing tennis right now.",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388363+00:00",
+    "updated_at": "2026-09-22T15:39:57.388363+00:00"
+  },
+  {
+    "id": 128,
+    "type": "error",
+    "prompt": "He is swiming in the pool.",
+    "payload": {
+      "chunks": [
+        "He",
+        "is swiming",
+        "in the pool"
+      ],
+      "correct": 1
+    },
+    "explanation": "Swim doubles the final consonant: swimming.",
+    "correction": "He is swimming in the pool.",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388374+00:00",
+    "updated_at": "2026-09-22T15:39:57.388374+00:00"
+  },
+  {
+    "id": 129,
+    "type": "error",
+    "prompt": "She usually walking to school.",
+    "payload": {
+      "chunks": [
+        "She",
+        "usually",
+        "walking",
+        "to school"
+      ],
+      "correct": 2
+    },
+    "explanation": "“Usually” describes a routine, so use the Present Simple: “walks”.",
+    "correction": "She usually walks to school.",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388387+00:00",
+    "updated_at": "2026-09-22T15:39:57.388387+00:00"
+  },
+  {
+    "id": 130,
+    "type": "error",
+    "prompt": "They are play basketball now.",
+    "payload": {
+      "chunks": [
+        "They",
+        "are play",
+        "basketball",
+        "now"
+      ],
+      "correct": 1
+    },
+    "explanation": "After “are”, use playing.",
+    "correction": "They are playing basketball now.",
+    "topic": "Present Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388399+00:00",
+    "updated_at": "2026-09-22T15:39:57.388399+00:00"
+  },
+  {
+    "id": 131,
+    "type": "error",
+    "prompt": "My brother watch TV every evening.",
+    "payload": {
+      "chunks": [
+        "My brother",
+        "watch",
+        "TV",
+        "every evening"
+      ],
+      "correct": 1
+    },
+    "explanation": "Third person singular: watches.",
+    "correction": "My brother watches TV every evening.",
+    "topic": "Present Simple",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388411+00:00",
+    "updated_at": "2026-09-22T15:39:57.388411+00:00"
+  },
+  {
+    "id": 132,
+    "type": "error",
+    "prompt": "Do Sarah like volleyball?",
+    "payload": {
+      "chunks": [
+        "Do",
+        "Sarah",
+        "like",
+        "volleyball"
+      ],
+      "correct": 0
+    },
+    "explanation": "With Sarah/she, use “Does”.",
+    "correction": "Does Sarah like volleyball?",
+    "topic": "Present Simple",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "find-mistake"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388424+00:00",
+    "updated_at": "2026-09-22T15:39:57.388424+00:00"
+  },
+  {
+    "id": 133,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with tennis?",
+    "payload": {
+      "options": [
+        "racket",
+        "pool",
+        "trainers",
+        "gloves"
+      ],
+      "correct": 0
+    },
+    "explanation": "A racket is commonly used in or strongly associated with tennis.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388448+00:00",
+    "updated_at": "2026-09-22T15:39:57.388448+00:00"
+  },
+  {
+    "id": 134,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with football?",
+    "payload": {
+      "options": [
+        "bike",
+        "skis",
+        "bat",
+        "goal"
+      ],
+      "correct": 3
+    },
+    "explanation": "A goal is commonly used in or strongly associated with football.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388465+00:00",
+    "updated_at": "2026-09-22T15:39:57.388465+00:00"
+  },
+  {
+    "id": 135,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with basketball?",
+    "payload": {
+      "options": [
+        "gloves",
+        "paddle",
+        "basket",
+        "net"
+      ],
+      "correct": 2
+    },
+    "explanation": "A basket is commonly used in or strongly associated with basketball.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388523+00:00",
+    "updated_at": "2026-09-22T15:39:57.388523+00:00"
+  },
+  {
+    "id": 136,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with swimming?",
+    "payload": {
+      "options": [
+        "club",
+        "pool",
+        "trainers",
+        "bat"
+      ],
+      "correct": 1
+    },
+    "explanation": "A pool is commonly used in or strongly associated with swimming.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388537+00:00",
+    "updated_at": "2026-09-22T15:39:57.388537+00:00"
+  },
+  {
+    "id": 137,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with cycling?",
+    "payload": {
+      "options": [
+        "bike",
+        "skis",
+        "paddle",
+        "racket"
+      ],
+      "correct": 0
+    },
+    "explanation": "A bike is commonly used in or strongly associated with cycling.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388551+00:00",
+    "updated_at": "2026-09-22T15:39:57.388551+00:00"
+  },
+  {
+    "id": 138,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with volleyball?",
+    "payload": {
+      "options": [
+        "gloves",
+        "club",
+        "goal",
+        "net"
+      ],
+      "correct": 3
+    },
+    "explanation": "A net is commonly used in or strongly associated with volleyball.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388564+00:00",
+    "updated_at": "2026-09-22T15:39:57.388564+00:00"
+  },
+  {
+    "id": 139,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with running?",
+    "payload": {
+      "options": [
+        "racket",
+        "basket",
+        "trainers",
+        "bat"
+      ],
+      "correct": 2
+    },
+    "explanation": "Trainers are commonly used for running.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388578+00:00",
+    "updated_at": "2026-09-22T15:39:57.388578+00:00"
+  },
+  {
+    "id": 140,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with skiing?",
+    "payload": {
+      "options": [
+        "pool",
+        "skis",
+        "paddle",
+        "goal"
+      ],
+      "correct": 1
+    },
+    "explanation": "Skis are used for skiing.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388591+00:00",
+    "updated_at": "2026-09-22T15:39:57.388591+00:00"
+  },
+  {
+    "id": 141,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with boxing?",
+    "payload": {
+      "options": [
+        "gloves",
+        "club",
+        "basket",
+        "bike"
+      ],
+      "correct": 0
+    },
+    "explanation": "Boxing gloves are used in boxing.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388604+00:00",
+    "updated_at": "2026-09-22T15:39:57.388604+00:00"
+  },
+  {
+    "id": 142,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with baseball?",
+    "payload": {
+      "options": [
+        "racket",
+        "pool",
+        "net",
+        "bat"
+      ],
+      "correct": 3
+    },
+    "explanation": "A bat is commonly used in or strongly associated with baseball.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388618+00:00",
+    "updated_at": "2026-09-22T15:39:57.388618+00:00"
+  },
+  {
+    "id": 143,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with table tennis?",
+    "payload": {
+      "options": [
+        "bike",
+        "trainers",
+        "bat",
+        "goal"
+      ],
+      "correct": 2
+    },
+    "explanation": "A table tennis bat is used to hit the ball.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388630+00:00",
+    "updated_at": "2026-09-22T15:39:57.388630+00:00"
+  },
+  {
+    "id": 144,
+    "type": "mcq",
+    "prompt": "Which item is most closely connected with golf?",
+    "payload": {
+      "options": [
+        "skis",
+        "club",
+        "basket",
+        "net"
+      ],
+      "correct": 1
+    },
+    "explanation": "A club is commonly used in or strongly associated with golf.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388643+00:00",
+    "updated_at": "2026-09-22T15:39:57.388643+00:00"
+  },
+  {
+    "id": 145,
+    "type": "fill",
+    "prompt": "Complete the sports phrase: ___ a football.",
+    "payload": {
+      "answers": [
+        "kick"
+      ]
+    },
+    "explanation": "The natural collocation is “kick a football”.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary",
+      "collocation"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388657+00:00",
+    "updated_at": "2026-09-22T15:39:57.388657+00:00"
+  },
+  {
+    "id": 146,
+    "type": "fill",
+    "prompt": "Complete the sports phrase: ___ a basketball to a teammate.",
+    "payload": {
+      "answers": [
+        "throw"
+      ]
+    },
+    "explanation": "The natural phrase is “throw a basketball to a teammate”.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary",
+      "collocation"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388671+00:00",
+    "updated_at": "2026-09-22T15:39:57.388671+00:00"
+  },
+  {
+    "id": 147,
+    "type": "fill",
+    "prompt": "Complete the sports phrase: ___ a tennis ball.",
+    "payload": {
+      "answers": [
+        "serve"
+      ]
+    },
+    "explanation": "The natural collocation is “serve a tennis ball”.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary",
+      "collocation"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388683+00:00",
+    "updated_at": "2026-09-22T15:39:57.388683+00:00"
+  },
+  {
+    "id": 148,
+    "type": "fill",
+    "prompt": "Complete the sports phrase: ___ in a pool.",
+    "payload": {
+      "answers": [
+        "swim"
+      ]
+    },
+    "explanation": "The natural collocation is “swim in a pool”.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary",
+      "collocation"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388694+00:00",
+    "updated_at": "2026-09-22T15:39:57.388694+00:00"
+  },
+  {
+    "id": 149,
+    "type": "fill",
+    "prompt": "Complete the sports phrase: ___ a bike.",
+    "payload": {
+      "answers": [
+        "ride"
+      ]
+    },
+    "explanation": "The natural collocation is “ride a bike”.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary",
+      "collocation"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388706+00:00",
+    "updated_at": "2026-09-22T15:39:57.388706+00:00"
+  },
+  {
+    "id": 150,
+    "type": "fill",
+    "prompt": "Complete the sports phrase: ___ a baseball.",
+    "payload": {
+      "answers": [
+        "hit"
+      ]
+    },
+    "explanation": "The natural collocation is “hit a baseball”.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary",
+      "collocation"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388718+00:00",
+    "updated_at": "2026-09-22T15:39:57.388718+00:00"
+  },
+  {
+    "id": 151,
+    "type": "fill",
+    "prompt": "Complete the sports phrase: ___ a goal.",
+    "payload": {
+      "answers": [
+        "score"
+      ]
+    },
+    "explanation": "The natural collocation is “score a goal”.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary",
+      "collocation"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388730+00:00",
+    "updated_at": "2026-09-22T15:39:57.388730+00:00"
+  },
+  {
+    "id": 152,
+    "type": "fill",
+    "prompt": "Complete the sports phrase: ___ a ball with your hands.",
+    "payload": {
+      "answers": [
+        "catch"
+      ]
+    },
+    "explanation": "The natural phrase is “catch a ball”.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary",
+      "collocation"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388743+00:00",
+    "updated_at": "2026-09-22T15:39:57.388743+00:00"
+  },
+  {
+    "id": 153,
+    "type": "fill",
+    "prompt": "Complete the sports phrase: ___ a race.",
+    "payload": {
+      "answers": [
+        "run"
+      ]
+    },
+    "explanation": "The natural collocation is “run a race”.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary",
+      "collocation"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388755+00:00",
+    "updated_at": "2026-09-22T15:39:57.388755+00:00"
+  },
+  {
+    "id": 154,
+    "type": "fill",
+    "prompt": "Complete the sports phrase: ___ boxing gloves.",
+    "payload": {
+      "answers": [
+        "wear"
+      ]
+    },
+    "explanation": "The natural collocation is “wear boxing gloves”.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary",
+      "collocation"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388766+00:00",
+    "updated_at": "2026-09-22T15:39:57.388766+00:00"
+  },
+  {
+    "id": 155,
+    "type": "mcq",
+    "prompt": "Which body part do you mainly use to see?",
+    "payload": {
+      "options": [
+        "hands",
+        "elbows",
+        "tongue",
+        "eyes"
+      ],
+      "correct": 3
+    },
+    "explanation": "You mainly use your eyes to see.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388783+00:00",
+    "updated_at": "2026-09-22T15:39:57.388783+00:00"
+  },
+  {
+    "id": 156,
+    "type": "mcq",
+    "prompt": "Which body part do you mainly use to hear?",
+    "payload": {
+      "options": [
+        "shoulders",
+        "fingers",
+        "ears",
+        "feet"
+      ],
+      "correct": 2
+    },
+    "explanation": "You mainly use your ears to hear.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388797+00:00",
+    "updated_at": "2026-09-22T15:39:57.388797+00:00"
+  },
+  {
+    "id": 157,
+    "type": "mcq",
+    "prompt": "Which body part do you mainly use to smell?",
+    "payload": {
+      "options": [
+        "toes",
+        "nose",
+        "knees",
+        "teeth"
+      ],
+      "correct": 1
+    },
+    "explanation": "You mainly use your nose to smell.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388810+00:00",
+    "updated_at": "2026-09-22T15:39:57.388810+00:00"
+  },
+  {
+    "id": 158,
+    "type": "mcq",
+    "prompt": "Which body part contains your teeth and tongue?",
+    "payload": {
+      "options": [
+        "mouth",
+        "elbows",
+        "tongue",
+        "neck"
+      ],
+      "correct": 0
+    },
+    "explanation": "Your mouth contains your teeth and tongue.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388824+00:00",
+    "updated_at": "2026-09-22T15:39:57.388824+00:00"
+  },
+  {
+    "id": 159,
+    "type": "mcq",
+    "prompt": "Which body parts are at the ends of your arms and have fingers?",
+    "payload": {
+      "options": [
+        "shoulders",
+        "fingers",
+        "eyes",
+        "hands"
+      ],
+      "correct": 3
+    },
+    "explanation": "Your hands are at the ends of your arms and have fingers.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388837+00:00",
+    "updated_at": "2026-09-22T15:39:57.388837+00:00"
+  },
+  {
+    "id": 160,
+    "type": "mcq",
+    "prompt": "Which body part do you mainly use to walk and stand?",
+    "payload": {
+      "options": [
+        "toes",
+        "ears",
+        "feet",
+        "teeth"
+      ],
+      "correct": 2
+    },
+    "explanation": "You mainly use your feet to walk and stand.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388849+00:00",
+    "updated_at": "2026-09-22T15:39:57.388849+00:00"
+  },
+  {
+    "id": 161,
+    "type": "mcq",
+    "prompt": "Which body part do you mainly use to bend your legs?",
+    "payload": {
+      "options": [
+        "nose",
+        "knees",
+        "tongue",
+        "neck"
+      ],
+      "correct": 1
+    },
+    "explanation": "You mainly use your knees to bend your legs.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388863+00:00",
+    "updated_at": "2026-09-22T15:39:57.388863+00:00"
+  },
+  {
+    "id": 162,
+    "type": "mcq",
+    "prompt": "Which body part do you mainly use to bend your arms?",
+    "payload": {
+      "options": [
+        "elbows",
+        "fingers",
+        "eyes",
+        "mouth"
+      ],
+      "correct": 0
+    },
+    "explanation": "You mainly use your elbows to bend your arms.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388876+00:00",
+    "updated_at": "2026-09-22T15:39:57.388876+00:00"
+  },
+  {
+    "id": 163,
+    "type": "mcq",
+    "prompt": "Which body parts connect your arms to your body?",
+    "payload": {
+      "options": [
+        "toes",
+        "ears",
+        "hands",
+        "shoulders"
+      ],
+      "correct": 3
+    },
+    "explanation": "Your shoulders connect your arms to your body.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388889+00:00",
+    "updated_at": "2026-09-22T15:39:57.388889+00:00"
+  },
+  {
+    "id": 164,
+    "type": "mcq",
+    "prompt": "Which body part do you mainly use to bite and chew?",
+    "payload": {
+      "options": [
+        "nose",
+        "feet",
+        "teeth",
+        "neck"
+      ],
+      "correct": 2
+    },
+    "explanation": "You mainly use your teeth to bite and chew.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388902+00:00",
+    "updated_at": "2026-09-22T15:39:57.388902+00:00"
+  },
+  {
+    "id": 165,
+    "type": "mcq",
+    "prompt": "Which body part do you mainly use to taste?",
+    "payload": {
+      "options": [
+        "knees",
+        "tongue",
+        "eyes",
+        "mouth"
+      ],
+      "correct": 1
+    },
+    "explanation": "You mainly use your tongue to taste.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388915+00:00",
+    "updated_at": "2026-09-22T15:39:57.388915+00:00"
+  },
+  {
+    "id": 166,
+    "type": "mcq",
+    "prompt": "Which small parts of your hands help you pick up tiny objects?",
+    "payload": {
+      "options": [
+        "fingers",
+        "ears",
+        "hands",
+        "elbows"
+      ],
+      "correct": 0
+    },
+    "explanation": "Your fingers help you pick up tiny objects.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388928+00:00",
+    "updated_at": "2026-09-22T15:39:57.388928+00:00"
+  },
+  {
+    "id": 167,
+    "type": "mcq",
+    "prompt": "Which small body parts are at the ends of your feet?",
+    "payload": {
+      "options": [
+        "nose",
+        "feet",
+        "shoulders",
+        "toes"
+      ],
+      "correct": 3
+    },
+    "explanation": "Your toes are at the ends of your feet.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388941+00:00",
+    "updated_at": "2026-09-22T15:39:57.388941+00:00"
+  },
+  {
+    "id": 168,
+    "type": "mcq",
+    "prompt": "Which body part connects your head to your body?",
+    "payload": {
+      "options": [
+        "knees",
+        "teeth",
+        "neck",
+        "mouth"
+      ],
+      "correct": 2
+    },
+    "explanation": "Your neck connects your head to your body.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "vocabulary"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388954+00:00",
+    "updated_at": "2026-09-22T15:39:57.388954+00:00"
+  },
+  {
+    "id": 169,
+    "type": "match",
+    "prompt": "Match each sport with its equipment.",
+    "payload": {
+      "pairs": [
+        {
+          "left": "tennis",
+          "right": "racket"
+        },
+        {
+          "left": "cycling",
+          "right": "bike"
+        },
+        {
+          "left": "boxing",
+          "right": "gloves"
+        },
+        {
+          "left": "baseball",
+          "right": "bat"
+        },
+        {
+          "left": "golf",
+          "right": "club"
+        }
+      ]
+    },
+    "explanation": "These are common sport/equipment pairs.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "matching"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388966+00:00",
+    "updated_at": "2026-09-22T15:39:57.388966+00:00"
+  },
+  {
+    "id": 170,
+    "type": "match",
+    "prompt": "Match the sport with the place.",
+    "payload": {
+      "pairs": [
+        {
+          "left": "swimming",
+          "right": "pool"
+        },
+        {
+          "left": "football",
+          "right": "pitch"
+        },
+        {
+          "left": "tennis",
+          "right": "tennis court"
+        },
+        {
+          "left": "running",
+          "right": "track"
+        },
+        {
+          "left": "basketball",
+          "right": "basketball court"
+        }
+      ]
+    },
+    "explanation": "Match each sport to the place where it is commonly played.",
+    "correction": "",
+    "topic": "Sports",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "matching"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388983+00:00",
+    "updated_at": "2026-09-22T15:39:57.388983+00:00"
+  },
+  {
+    "id": 171,
+    "type": "match",
+    "prompt": "Match the body part with its function.",
+    "payload": {
+      "pairs": [
+        {
+          "left": "eyes",
+          "right": "see"
+        },
+        {
+          "left": "ears",
+          "right": "hear"
+        },
+        {
+          "left": "nose",
+          "right": "smell"
+        },
+        {
+          "left": "teeth",
+          "right": "chew"
+        },
+        {
+          "left": "tongue",
+          "right": "taste"
+        }
+      ]
+    },
+    "explanation": "These body parts have these common functions.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "easy",
+    "tags": [
+      "matching"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.388998+00:00",
+    "updated_at": "2026-09-22T15:39:57.388998+00:00"
+  },
+  {
+    "id": 172,
+    "type": "match",
+    "prompt": "Match each body part with the correct word.",
+    "payload": {
+      "pairs": [
+        {
+          "left": "arm",
+          "right": "connects the shoulder to the hand"
+        },
+        {
+          "left": "leg",
+          "right": "helps you walk and run"
+        },
+        {
+          "left": "hand",
+          "right": "has fingers"
+        },
+        {
+          "left": "foot",
+          "right": "has toes"
+        },
+        {
+          "left": "head",
+          "right": "has eyes, ears, nose and mouth"
+        }
+      ]
+    },
+    "explanation": "Match each body part with the description that fits it best.",
+    "correction": "",
+    "topic": "Body Parts",
+    "vocabulary": "Body Parts",
+    "difficulty": "medium",
+    "tags": [
+      "matching"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389013+00:00",
+    "updated_at": "2026-09-22T15:39:57.389013+00:00"
+  },
+  {
+    "id": 173,
+    "type": "swipe",
+    "prompt": "I usually walk to school.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Usually” describes a habit.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "time-expression"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389029+00:00",
+    "updated_at": "2026-09-22T15:39:57.389029+00:00"
+  },
+  {
+    "id": 174,
+    "type": "swipe",
+    "prompt": "I am walking to school right now.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Right now” describes the present moment.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "time-expression"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389042+00:00",
+    "updated_at": "2026-09-22T15:39:57.389042+00:00"
+  },
+  {
+    "id": 175,
+    "type": "swipe",
+    "prompt": "She often plays volleyball after school.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Often” describes frequency.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "time-expression"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389054+00:00",
+    "updated_at": "2026-09-22T15:39:57.389054+00:00"
+  },
+  {
+    "id": 176,
+    "type": "swipe",
+    "prompt": "She is playing volleyball at the moment.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“At the moment” signals an action happening now.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "easy",
+    "tags": [
+      "time-expression"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389066+00:00",
+    "updated_at": "2026-09-22T15:39:57.389066+00:00"
+  },
+  {
+    "id": 177,
+    "type": "swipe",
+    "prompt": "We have English every Monday.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Every Monday” describes a regular timetable.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "time-expression"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389077+00:00",
+    "updated_at": "2026-09-22T15:39:57.389077+00:00"
+  },
+  {
+    "id": 178,
+    "type": "swipe",
+    "prompt": "We are having an English lesson now.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Now” signals an action happening at this moment, so the Present Continuous is correct.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "time-expression"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389089+00:00",
+    "updated_at": "2026-09-22T15:39:57.389089+00:00"
+  },
+  {
+    "id": 179,
+    "type": "swipe",
+    "prompt": "He never wears a hat at school.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Never” is an adverb of frequency.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "time-expression"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389100+00:00",
+    "updated_at": "2026-09-22T15:39:57.389100+00:00"
+  },
+  {
+    "id": 180,
+    "type": "swipe",
+    "prompt": "He is wearing a hat today.",
+    "payload": {
+      "correct": true
+    },
+    "explanation": "“Today” can describe a temporary situation.",
+    "correction": "",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "easy",
+    "tags": [
+      "time-expression"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389119+00:00",
+    "updated_at": "2026-09-22T15:39:57.389119+00:00"
+  },
+  {
+    "id": 181,
+    "type": "swipe",
+    "prompt": "I am walk to school every day.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "“Every day” describes a routine, so use the Present Simple. “Am walk” is not a correct verb form.",
+    "correction": "I walk to school every day.",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389137+00:00",
+    "updated_at": "2026-09-22T15:39:57.389137+00:00"
+  },
+  {
+    "id": 182,
+    "type": "swipe",
+    "prompt": "She plays volleyball right now.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "“Right now” requires the Present Continuous.",
+    "correction": "She is playing volleyball right now.",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389153+00:00",
+    "updated_at": "2026-09-22T15:39:57.389153+00:00"
+  },
+  {
+    "id": 183,
+    "type": "swipe",
+    "prompt": "They are go to the gym every Friday.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "A weekly routine uses the Present Simple.",
+    "correction": "They go to the gym every Friday.",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389166+00:00",
+    "updated_at": "2026-09-22T15:39:57.389166+00:00"
+  },
+  {
+    "id": 184,
+    "type": "swipe",
+    "prompt": "He is brush his teeth twice a day.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "“Twice a day” describes a routine, so use the Present Simple: “brushes”.",
+    "correction": "He brushes his teeth twice a day.",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Body Parts",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389180+00:00",
+    "updated_at": "2026-09-22T15:39:57.389180+00:00"
+  },
+  {
+    "id": 185,
+    "type": "swipe",
+    "prompt": "Look! The dog runs after the ball.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "“Look!” points to an action happening now.",
+    "correction": "Look! The dog is running after the ball.",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389192+00:00",
+    "updated_at": "2026-09-22T15:39:57.389192+00:00"
+  },
+  {
+    "id": 186,
+    "type": "swipe",
+    "prompt": "My friends is playing basketball now.",
+    "payload": {
+      "correct": false
+    },
+    "explanation": "Plural subject “friends” uses “are”.",
+    "correction": "My friends are playing basketball now.",
+    "topic": "Simple vs Continuous",
+    "vocabulary": "Sports",
+    "difficulty": "medium",
+    "tags": [
+      "comparison"
+    ],
+    "active": true,
+    "created_at": "2026-09-22T15:39:57.389203+00:00",
+    "updated_at": "2026-09-22T15:39:57.389203+00:00"
+  }
+]

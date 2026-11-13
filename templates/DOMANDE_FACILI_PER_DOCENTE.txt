@@ -1,0 +1,48 @@
+# Modello semplice per la docente — salva come file .txt UTF-8
+# Ogni blocco separato da --- è una domanda.
+ARGOMENTO: Present Simple
+DIFFICOLTÀ: easy
+
+GIOCO: Vero o falso
+DOMANDA: She goes to school every day.
+RISPOSTA: vero
+SPIEGAZIONE: La terza persona usa -s.
+---
+GIOCO: Scelta multipla
+DOMANDA: She ___ football on Fridays.
+OPZIONI: plays | play | playing
+RISPOSTA: plays
+SPIEGAZIONE: Con she usiamo plays.
+---
+GIOCO: Completa
+DOMANDA: They ___ (go) to school every day.
+RISPOSTE: go | go to
+---
+GIOCO: Memory
+DOMANDA: Abbina le parole inglesi con quelle italiane.
+COPPIE:
+cat = gatto
+dog = cane
+book = libro
+---
+GIOCO: Ascolta e scegli
+DOMANDA: What word do you hear?
+OPZIONI: beach | peach | pitch
+RISPOSTA: beach
+# Dopo l'importazione registra la voce nella banca domande.
+---
+GIOCO: Dettato
+DOMANDA: Listen and spell the word.
+RISPOSTE: elephant
+# L'audio va registrato prima dell'attivazione.
+---
+ATTIVITÀ: Memory — Food and Animals
+GIOCO: Memory
+NUMERO DOMANDE: 5
+MODALITÀ: practice
+---
+ATTIVITÀ: Swipe Time Attack
+GIOCO: Swipe
+NUMERO DOMANDE: 15
+TIMER: 60
+SFIDA A TEMPO: sì
